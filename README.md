@@ -1,3 +1,8 @@
+# Nota importante:
+Para entrgar la tarea en un curso, espera la invitación a la tarea y hazla en el repositorio 
+creado autamáticamente por GitHub Classroom. Si quieres practicar, usa este repositorio como
+plantilla para crear una copia en tu usuario.
+
 # Ejercicio Unidad 2
 
 ## Recursos Humanos
